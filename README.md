@@ -34,6 +34,6 @@
 <h3 align="left">🤝 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sharoon-shaleem-0a7a85226" target="_blank" rel="noreferrer"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="sharoon-shaleem-0a7a85226" height="40" width="40" /></a>
-<a href="https://instagram.com/sharoon_shaleem" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="sharoon_shaleem" height="40" width="40" /></a>
-<a href="mailto:sharoonshaleem@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://www.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg" alt="email" height="40" width="40" /></a>
+<a href="https://instagram.com/sharoonshaleem" target="_blank" rel="noreferrer"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="sharoon_shaleem" height="40" width="40" /></a>
+<a href="mailto:ssharoon166@gmail.com" target="_blank" rel="noreferrer"><img align="center" src="https://www.cdnlogo.com/logos/o/14/official-gmail-icon-2020.svg" alt="email" height="40" width="40" /></a>
 </p>
