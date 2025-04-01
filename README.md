@@ -20,8 +20,6 @@
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="60" />
-  <img src="https://skillicons.dev/icons?i=css" height="60" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" />
   <img src="https://skillicons.dev/icons?i=js" height="60" />
   <img src="https://skillicons.dev/icons?i=ts" height="60" />
