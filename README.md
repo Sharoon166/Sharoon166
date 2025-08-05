@@ -13,7 +13,6 @@
 
 <h3 align="left">🎯 About Me:</h3>
 
-- 🌱 I'm currently learning **AI/ML** 🤖
 - 💻 All of my projects are available at [my portfolio](https://sharoon.vercel.app/)
 - 💭 Ask me about React, Next.js, Node.js - I love discussing tech!
 - ⚡ <strong>Fun fact:</strong> I love astronomy, exploring new technologies and building cool stuff
